@@ -1,0 +1,2 @@
+# WindowLightDemo
+一个控制屏幕亮度和屏幕休眠时间的简单demo
